@@ -1,3 +1,7 @@
+<img src="https://github.com/nancyculley/Little_Data_Project_1/blob/master/Resources/harvey.gif" width="4000" height="400" />
+
+
+
 # Little_Data_Project_1
 # Hurricanes have a negative effect on the stock market (S&P1500).
 ## GT Bootcamp Project
